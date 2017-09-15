@@ -7,7 +7,7 @@ using System.Data;
 
 namespace CPE200Lab1
 {
-    class CalculatorEngine
+    public class CalculatorEngine
     {
         public bool isNumber(string str)
         {
